@@ -16,7 +16,7 @@ const Story = () => {
   const navigate = useNavigate();
 
   const backToHome = () => {
-    navigate("/instagam");
+    navigate("/");
   };
 
   const nextSlide = () => {
