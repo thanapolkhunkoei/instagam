@@ -123,7 +123,7 @@ const Post = ({
   const navigate = useNavigate();
 
   const back = () => {
-    navigate("/");
+    navigate("/instagam");
   };
 
   return (
